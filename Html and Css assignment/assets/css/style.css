@@ -1,0 +1,16 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.navbar-brand-color{
+  background-color: #4BABA5;
+}
+.header-color{
+  color: #4BABA5;
+}
+section{
+  background-color: #EDEDED;
+}
+.comparison-bg{
+  background-color: white;
+}
